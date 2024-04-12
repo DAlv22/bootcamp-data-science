@@ -6,7 +6,7 @@ Below are some of the projects I worked on during the bootcamp.
 | # | Project  | Approach  | Tools  | Objective |
 |---|-----------|------------|-------|-----------|
 |01|[Basic Python](link)|Basic Python |[👥](./Roadmap/01%20-%20OPERADORES%20Y%20ESTRUCTURAS%20DE%20CONTROL/)
-|02|[Data Wrangling](link)|Data Wrangling |[👥](./Roadmap/02%20-%20FUNCIONES%20Y%20ALCANCE/)
+|02|[Data Wrangling]([link](https://github.com/DAlv22/bootcamp-data-science/tree/main/project_2))|Data Wrangling |[👥](./Roadmap/02%20-%20FUNCIONES%20Y%20ALCANCE/)
 |03|[Statistical Data Analysis](link)|Statistical Data Analysis |[👥](./Roadmap/03%20-%20ESTRUCTURAS%20DE%20DATOS/)
 |04|[Software Development Tools](link)|Software Development Tools |[👥](./Roadmap/04%20-%20CADENAS%20DE%20CARACTERES/)
 |05|[Integrated Project 1](link)|Integrated Project 1 |[👥](./Roadmap/05%20-%20VALOR%20Y%20REFERENCIA/)
