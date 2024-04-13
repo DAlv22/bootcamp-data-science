@@ -5,8 +5,8 @@ Below are some of the projects I worked on during the bootcamp.
 
 | # | Project  | Approach  | Tools  | Objective |
 |---|-----------|------------|-------|-----------|
-|01|[Basic Python](https://github.com/DAlv22/bootcamp-data-science/blob/main/project_1/project_1.ipynb)|Basic Python |[👥](./Roadmap/01%20-%20OPERADORES%20Y%20ESTRUCTURAS%20DE%20CONTROL/)
-|02|[Data Wrangling](https://github.com/DAlv22/bootcamp-data-science/blob/main/project_2/project_2.ipynb)|Data Wrangling |[👥](./Roadmap/02%20-%20FUNCIONES%20Y%20ALCANCE/)
+|01|[Music platform listener behavior analysis](https://github.com/DAlv22/bootcamp-data-science/blob/main/project_1/project_1.ipynb)|Basic Python |pandas |Analyzing User Behavior on Online Music Streaming Platforms
+|02|[Analysis of customer orders and shopping carts on supermarket platform](https://github.com/DAlv22/bootcamp-data-science/blob/main/project_2/project_2.ipynb)|Data Wrangling |pandas, numpy, matplotlib |Analyze Instacart order and shopping cart data to understand consumption patterns
 |03|[Statistical Data Analysis](link)|Statistical Data Analysis |[👥](./Roadmap/03%20-%20ESTRUCTURAS%20DE%20DATOS/)
 |04|[Software Development Tools](link)|Software Development Tools |[👥](./Roadmap/04%20-%20CADENAS%20DE%20CARACTERES/)
 |05|[Integrated Project 1](link)|Integrated Project 1 |[👥](./Roadmap/05%20-%20VALOR%20Y%20REFERENCIA/)
